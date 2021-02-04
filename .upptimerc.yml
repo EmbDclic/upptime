@@ -12,6 +12,12 @@ sites:
     url: https://dclic-003.ovh
   - name: TL
     url: $SITE_TL
+  - name: TT
+    url: $SITE_TT
+  - name: GHT
+    url: $SITE_GHT
+  - name: CHM
+    url: $SITE_CHM
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
