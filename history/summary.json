@@ -22,19 +22,19 @@
     "url": "https://dclic.ovh",
     "icon": "https://favicons.githubusercontent.com/dclic.ovh",
     "slug": "dclic-002",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 925,
-    "timeDay": 925,
-    "timeWeek": 925,
-    "timeMonth": 925,
-    "timeYear": 925,
+    "status": "up",
+    "uptime": "39.51%",
+    "uptimeDay": "39.51%",
+    "uptimeWeek": "39.51%",
+    "uptimeMonth": "39.51%",
+    "uptimeYear": "39.51%",
+    "time": 906,
+    "timeDay": 906,
+    "timeWeek": 906,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2021-02-04": 0
+      "2021-02-04": 57
     }
   },
   {
