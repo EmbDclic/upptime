@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/dclic-003.ovh",
     "slug": "dclic-003",
     "status": "up",
-    "uptime": "96.19%",
-    "uptimeDay": "96.19%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "96.19%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 914,
     "timeDay": 914,
     "timeWeek": 914,
     "timeMonth": 914,
     "timeYear": 914,
-    "dailyMinutesDown": {
-      "2021-02-04": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TL",
