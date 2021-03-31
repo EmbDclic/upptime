@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.dclic.info",
     "slug": "dclic-001",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.48%",
-    "time": 952,
-    "timeDay": 772,
-    "timeWeek": 1090,
-    "timeMonth": 896,
-    "timeYear": 952,
-    "dailyMinutesDown": {
-      "2021-02-22": 633,
-      "2021-02-21": 542
-    }
+    "uptimeYear": "100.00%",
+    "time": 954,
+    "timeDay": 1082,
+    "timeWeek": 1064,
+    "timeMonth": 902,
+    "timeYear": 954,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DCLIC-002",
@@ -31,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 449,
-    "timeWeek": 839,
-    "timeMonth": 690,
-    "timeYear": 780,
+    "time": 784,
+    "timeDay": 985,
+    "timeWeek": 850,
+    "timeMonth": 699,
+    "timeYear": 784,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 526,
-    "timeWeek": 858,
-    "timeMonth": 656,
-    "timeYear": 685,
+    "time": 689,
+    "timeDay": 913,
+    "timeWeek": 846,
+    "timeMonth": 663,
+    "timeYear": 689,
     "dailyMinutesDown": {}
   },
   {
@@ -62,16 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tl",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.48%",
-    "time": 1134,
-    "timeDay": 1066,
-    "timeWeek": 1480,
-    "timeMonth": 1174,
-    "timeYear": 1134,
+    "uptimeYear": "98.50%",
+    "time": 1157,
+    "timeDay": 2549,
+    "timeWeek": 1616,
+    "timeMonth": 1219,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2021-02-22": 633,
       "2021-02-21": 542
@@ -83,20 +80,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tt",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
-    "time": 853,
-    "timeDay": 588,
-    "timeWeek": 977,
-    "timeMonth": 890,
-    "timeYear": 853,
-    "dailyMinutesDown": {
-      "2021-02-22": 633,
-      "2021-02-21": 542
-    }
+    "uptimeYear": "100.00%",
+    "time": 855,
+    "timeDay": 990,
+    "timeWeek": 981,
+    "timeMonth": 893,
+    "timeYear": 855,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GHT",
@@ -104,20 +98,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ght",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
-    "time": 860,
-    "timeDay": 683,
-    "timeWeek": 915,
-    "timeMonth": 804,
-    "timeYear": 860,
-    "dailyMinutesDown": {
-      "2021-02-22": 633,
-      "2021-02-21": 542
-    }
+    "uptimeYear": "100.00%",
+    "time": 861,
+    "timeDay": 928,
+    "timeWeek": 909,
+    "timeMonth": 808,
+    "timeYear": 861,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CHM",
@@ -125,19 +116,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chm",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
-    "time": 3373,
-    "timeDay": 3407,
-    "timeWeek": 3705,
-    "timeMonth": 3472,
-    "timeYear": 3373,
-    "dailyMinutesDown": {
-      "2021-02-22": 633,
-      "2021-02-21": 542
-    }
+    "uptimeYear": "100.00%",
+    "time": 3378,
+    "timeDay": 3655,
+    "timeWeek": 3720,
+    "timeMonth": 3478,
+    "timeYear": 3378,
+    "dailyMinutesDown": {}
   }
 ]
